@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Question & Ashton]]></title>
+  <link href="http://www.questionandashton.com/atom.xml" rel="self"/>
+  <link href="http://www.questionandashton.com/"/>
+  <updated>2017-09-02T14:35:23-07:00</updated>
+  <id>http://www.questionandashton.com/</id>
+  <author>
+    <name><![CDATA[Ashton Kemerling]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
