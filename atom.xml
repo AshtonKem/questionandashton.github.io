@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Question & Ashton]]></title>
-  <link href="http://www.questionandashton.com/atom.xml" rel="self"/>
-  <link href="http://www.questionandashton.com/"/>
-  <updated>2017-09-02T14:35:23-07:00</updated>
-  <id>http://www.questionandashton.com/</id>
+  <link href="http://ashtonkem.github.io/atom.xml" rel="self"/>
+  <link href="http://ashtonkem.github.io/"/>
+  <updated>2017-09-02T14:38:45-07:00</updated>
+  <id>http://ashtonkem.github.io/</id>
   <author>
     <name><![CDATA[Ashton Kemerling]]></name>
     
