@@ -19,7 +19,7 @@ layout: nil
     </itunes:owner>
 
     <itunes:image href="https://s3.amazonaws.com/questionandashton/logo.png" />
-    <itunes:category text="Society & Culture">
+    <itunes:category text="Society &amp; Culture">
       <itunes:category text="History"/>
     </itunes:category>
 
