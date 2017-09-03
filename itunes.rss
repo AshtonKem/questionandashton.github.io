@@ -15,7 +15,7 @@
       <itunes:email>ashtonkemerling@gmail.com</itunes:email>
     </itunes:owner>
 
-    <itunes:image href="https://s3.amazonaws.com/questionandashton/logo.png" />
+    <itunes:image href="https://s3.amazonaws.com/questionandashton/logo.png"></itunes:image>
     <itunes:category text="Society & Culture">
       <itunes:category text="History"/>
     </itunes:category>
