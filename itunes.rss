@@ -21,6 +21,20 @@
     </itunes:category>
 
     
+    <item>
+      <title><![CDATA[What Do We Have Here?]]></title>
+      <description><![CDATA[<p>An introduction to Question &amp; Ashton.</p>
+
+<p>Official discussion at <a href="http://www.reddit.com/r/questionandashton">http://www.reddit.com/r/questionandashton</a></p>
+]]></description>
+      <link>http://questionandashton.com/blog/2017/09/02/introduction/</link>
+      <guid>http://questionandashton.com/blog/2017/09/02/introduction/</guid>
+      <pubDate>Sat, 02 Sep 2017 19:05:41 -0700</pubDate>
+      <itunes:author><![CDATA[Ashton Kemerling]]></itunes:author>
+      <itunes:summary><![CDATA[An introduction to Question & Ashton]]></itunes:summary>
+      <enclosure url="https://s3.amazonaws.com/questionandashton/episodes/0-introduction.mp3" type="audio/mp3" length="1734860" />
+    </item>
+    
 
   </channel>
 </rss>
