@@ -11,4 +11,4 @@ categories:
 
 An introduction to Question & Ashton.
 
-Official discussion at http://www.reddit.com/r/questionandashton
+Official discussion at [http://www.reddit.com/r/questionandashton](http://www.reddit.com/r/questionandashton)
